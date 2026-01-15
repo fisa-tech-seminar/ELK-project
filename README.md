@@ -108,7 +108,8 @@
 
 - 전체 총 소비금액 기준 등급별 비중을 Pie Chart로 시각화
 
-![image.png](attachment:96beef96-900f-4174-8731-511351855883:image.png)
+<img width="749" height="518" alt="image" src="https://github.com/user-attachments/assets/e502df7b-cc58-4517-b801-3dcf46b024a1" />
+
 
 **결과**
 
@@ -123,7 +124,7 @@
 
 - 전체 고객 수 대비 회원등급별 비중 분석
 
-![image.png](attachment:bd628b5f-f5f8-4d9d-868f-c4c79fc86c86:image.png)
+<img width="955" height="536" alt="image" src="https://github.com/user-attachments/assets/64384d19-6837-471e-b2dc-6ae8ea6eead1" />
 
 **결과**
 
@@ -142,7 +143,8 @@
 - 해당 평균과 **같거나 높은 소비를 하는 일반 고객(23~25)**을 추출
 - 이들이 각 등급 내에서 차지하는 비율을 **Bar Chart**로 시각화
 
-![image.png](attachment:83707872-b643-4a27-946a-b289e50a692e:image.png)
+<img width="922" height="571" alt="image" src="https://github.com/user-attachments/assets/00a7e6de-44a2-43ea-b9a6-48e2a5b3667a" />
+
 
 **결과**
 
@@ -155,7 +157,7 @@
 
 - 전체 고객의 업종별 소비 금액을 **Treemap**으로 시각화
 
-![image.png](attachment:4763ba0b-18a4-41d6-8f2b-2cc52e4f6e91:image.png)
+<img width="1044" height="577" alt="image" src="https://github.com/user-attachments/assets/5806fb7f-aaf0-42f1-a1e5-6a3a32bbccd4" />
 
 **결과**
 
@@ -168,8 +170,7 @@
 ### ☑️ 4-1단계 : Hidden VIP 고객의 업종 소비 특성 분석
 
 - 상위 등급 평균 소비금액보다 높은 일반 고객을 대상으로 업종별 소비 비교
-
-![image.png](attachment:6d38f41d-31ac-4cbc-9795-99198812799e:image.png)
+<img width="927" height="470" alt="image" src="https://github.com/user-attachments/assets/c9f0fdb7-b2e0-4a57-b56d-d9f451e428d3" />
 
 **결과**
 
@@ -183,7 +184,7 @@
 
 - Hidden VIP 고객의 LIFE_STAGE 분포 분석
 
-![image.png](attachment:4bd7b754-95c0-4d35-a9ac-798322b52925:image.png)
+<img width="922" height="597" alt="image" src="https://github.com/user-attachments/assets/12488313-e44e-41aa-ac66-2f3ae3f5708f" />
 
 **결과**
 
