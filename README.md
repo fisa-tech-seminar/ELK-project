@@ -198,8 +198,8 @@
 ---
 
 ### ☑️ 3단계 : 전체 고객 기준 최다 소비 업종 분석
-
-'''SELECT 
+```sql
+SELECT 
     seq,
     -- 1순위
     MAX(CASE WHEN rn = 1 THEN category END) AS top1_category,
@@ -225,8 +225,8 @@ FROM (
     WHERE category NOT IN ('TOT_USE_AM', 'CRDSL_USE_AM', 'CNF_USE_AM')
 ) ranking_base
 WHERE rn <= 3 -- 3등까지만 남김
-GROUP BY seq;'''
-
+GROUP BY seq;
+```
 
 
 - 전체 고객의 업종별 소비 금액을 **Treemap**으로 시각화
