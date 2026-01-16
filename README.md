@@ -179,9 +179,9 @@
 ### ☑️ 2단계 : 상위 등급 평균 소비금액 대비 일반 고객 분석
 
 - VVIP, VIP 고객의 평균 소비금액 산출
-'''sql
+```sql
   select round(avg(tot_use_am)) from wooricard_2024q4 where mbr_rk in (21, 22);
-  '''
+```
 - 해당 평균과 **같거나 높은 소비를 하는 일반 고객(23~25)** 을 추출
 - 이들이 각 등급 내에서 차지하는 비율을 **Bar Chart**로 시각화
 
